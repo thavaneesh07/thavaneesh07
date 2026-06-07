@@ -1,37 +1,57 @@
 # Hi, I'm Thavaneesh D Shetty 👋
 
-**Computer Science (AI & Data Science) Undergraduate** — passionate about backend development, AI-powered applications, and building practical software systems.
+### Computer Science (AI & Data Science) Undergraduate
 
-Currently pursuing a B.E. in Computer Science (Artificial Intelligence & Data Science) and actively strengthening my skills in backend engineering, full-stack development, and applied AI.
+Passionate about **Backend Engineering, AI-Powered Applications, Data Analytics, and Full-Stack Development**.
+
+Currently pursuing a B.E. in Computer Science (Artificial Intelligence & Data Science) and actively building real-world software solutions that combine scalable backend systems, intelligent automation, and modern web technologies.
+
+---
+
+## 🚀 About Me
+
+* 🎓 B.E. Computer Science (AI & Data Science) Student
+* 💻 Full-Stack Developer & Backend Enthusiast
+* 🤖 Interested in AI, Machine Learning, NLP, and LLM Applications
+* 📊 Data Analytics & Visualization with Power BI and Tableau
+* 🌱 Continuously learning System Design, Cloud Technologies, and Scalable Architectures
+* ⚽ Football, Cricket, Fitness, Reading, and Open Source Enthusiast
 
 ---
 
 ## 👨‍💻 What I Do
 
-* **Backend Development** — REST APIs, authentication, database design, and scalable application architecture
-* **AI Integration** — working with AI APIs, prompt engineering, NLP workflows, and intelligent applications
-* **Full-Stack Development** — building web applications using modern frontend and backend technologies
-* **Software Engineering Fundamentals** — Data Structures & Algorithms, Operating Systems, Computer Networks, and DBMS
+### Backend Development
 
----
+* REST API Development
+* Authentication & Authorization
+* Database Design
+* Scalable Application Architecture
+* FastAPI & Flask Development
 
-## 🌱 Currently Learning
+### AI & Intelligent Systems
 
-* Advanced Backend Engineering with FastAPI
-* AI Application Development & LLM Integration
-* Cloud & DevOps Fundamentals
-* System Design and Scalable Architectures
+* AI API Integration
+* Prompt Engineering
+* NLP Workflows
+* Machine Learning Applications
+* LLM-Powered Solutions
 
----
+### Full-Stack Development
 
-## 💬 Ask Me About
+* Frontend Development with React
+* Backend Development with Python
+* API Integration
+* Database Management
+* End-to-End Application Development
 
-* Python Development
-* FastAPI & Flask
-* REST API Design
-* Databases (PostgreSQL, MongoDB, SQLite)
-* AI & Machine Learning Applications
-* Full-Stack Development
+### Data Analytics & Visualization
+
+* Power BI Dashboards
+* Tableau Visualizations
+* Data Cleaning & Analysis
+* Business Intelligence Reporting
+* SQL-Based Analytics
 
 ---
 
@@ -39,51 +59,113 @@ Currently pursuing a B.E. in Computer Science (Artificial Intelligence & Data Sc
 
 ### Languages
 
-Python • Java • C • SQL • JavaScript • R • HTML • CSS
+![Python](https://img.shields.io/badge/python-3776AB?style=flat-square\&logo=python\&logoColor=white)
+![Java](https://img.shields.io/badge/java-ED8B00?style=flat-square\&logo=openjdk\&logoColor=white)
+![C](https://img.shields.io/badge/c-A8B9CC?style=flat-square\&logo=c\&logoColor=black)
+![JavaScript](https://img.shields.io/badge/javascript-F7DF1E?style=flat-square\&logo=javascript\&logoColor=black)
+![SQL](https://img.shields.io/badge/sql-336791?style=flat-square\&logo=postgresql\&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?style=flat-square\&logo=r\&logoColor=white)
+
+---
 
 ### Frameworks & Tools
 
-FastAPI • Flask • React.js • Node.js • Git • Docker • Linux • REST APIs
+![FastAPI](https://img.shields.io/badge/fastapi-009688?style=flat-square\&logo=fastapi\&logoColor=white)
+![Flask](https://img.shields.io/badge/flask-000000?style=flat-square\&logo=flask\&logoColor=white)
+![React](https://img.shields.io/badge/react-20232A?style=flat-square\&logo=react\&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/node.js-339933?style=flat-square\&logo=nodedotjs\&logoColor=white)
+![Git](https://img.shields.io/badge/git-F05032?style=flat-square\&logo=git\&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-2496ED?style=flat-square\&logo=docker\&logoColor=white)
+![Linux](https://img.shields.io/badge/linux-FCC624?style=flat-square\&logo=linux\&logoColor=black)
+
+---
 
 ### Databases
 
-PostgreSQL • MongoDB • SQLite
-
-### Core CS
-
-Data Structures & Algorithms • Operating Systems • Computer Networks • DBMS
+![PostgreSQL](https://img.shields.io/badge/postgresql-336791?style=flat-square\&logo=postgresql\&logoColor=white)
+![MongoDB](https://img.shields.io/badge/mongodb-47A248?style=flat-square\&logo=mongodb\&logoColor=white)
+![SQLite](https://img.shields.io/badge/sqlite-003B57?style=flat-square\&logo=sqlite\&logoColor=white)
 
 ---
 
-## 🎓 Education
+### Data Analytics & BI
 
-**B.E. Computer Science (Artificial Intelligence & Data Science)**
-RNS Institute of Technology, Bangalore
-
----
-
-## 🌐 Connect
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thavaneesh-shetty-9140a1291) [![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:thavaneesh2005@gmail.com)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square\&logo=powerbi\&logoColor=black)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat-square\&logo=tableau\&logoColor=white)
 
 ---
 
-## 💻 Tech Stack
+## 📌 Featured Projects
 
-![Python](https://img.shields.io/badge/python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![C](https://img.shields.io/badge/c-A8B9CC?style=flat-square&logo=c&logoColor=black)
-![SQL](https://img.shields.io/badge/sql-336791?style=flat-square&logo=postgresql&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![FastAPI](https://img.shields.io/badge/fastapi-009688?style=flat-square&logo=fastapi&logoColor=white)
-![Flask](https://img.shields.io/badge/flask-000000?style=flat-square&logo=flask&logoColor=white)
-![React](https://img.shields.io/badge/react-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/postgresql-336791?style=flat-square&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/mongodb-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![SQLite](https://img.shields.io/badge/sqlite-003B57?style=flat-square&logo=sqlite&logoColor=white)
-![Docker](https://img.shields.io/badge/docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Linux](https://img.shields.io/badge/linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![Git](https://img.shields.io/badge/git-F05032?style=flat-square&logo=git&logoColor=white)
+### 🔹 Autonomous Mineral Data Structuring & Analytical Intelligence System (AMDAIS)
 
-*"Simplicity can be a Virtue"*
+**Tech Stack:** Python, FastAPI, React.js, Pandas, Scikit-learn, spaCy
+
+* Built an autonomous multi-agent system for transforming unstructured mineral data into actionable insights
+* Developed NLP pipelines for data extraction
+* Implemented anomaly detection and predictive analytics
+* Designed an interactive React dashboard for visualization
+
+---
+
+### 🔹 AI Travel Planner (Ongoing)
+
+**Tech Stack:** Python, FastAPI, PostgreSQL, Google Maps API
+
+* Intelligent itinerary generation system
+* API integration for weather, distance, and location services
+* Backend architecture with REST APIs and PostgreSQL
+
+---
+
+### 🔹 AI Recipe Generator
+
+**Tech Stack:** Python, Flask, SQLite, OpenAI APIs
+
+* AI-powered recipe generation from user ingredients
+* Prompt engineering for structured recipe outputs
+* Full-stack web application with persistent storage
+
+---
+
+## 📚 Core Computer Science
+
+* Data Structures & Algorithms
+* Operating Systems
+* Computer Networks
+* Database Management Systems
+* Software Engineering Fundamentals
+* Object-Oriented Programming
+
+---
+
+## 🌱 Currently Learning
+
+* Advanced FastAPI Development
+* System Design
+* Cloud Computing Fundamentals
+* DevOps & Containerization
+* AI Agent Workflows
+* LLM Application Development
+
+---
+
+## 📈 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=thavaneesh07\&show_icons=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=thavaneesh07\&layout=compact)
+
+---
+
+## 🤝 Connect With Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/thavaneesh-shetty-9140a1291)
+
+[![Email](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:thavaneesh2005@gmail.com)
+
+---
+
+### 💡 Motto
+
+> *"Simplicity can be a Virtue."*
