@@ -95,38 +95,6 @@ Currently pursuing a B.E. in Computer Science (Artificial Intelligence & Data Sc
 
 ---
 
-## 📌 Featured Projects
-
-### 🔹 Autonomous Mineral Data Structuring & Analytical Intelligence System (AMDAIS)
-
-**Tech Stack:** Python, FastAPI, React.js, Pandas, Scikit-learn, spaCy
-
-* Built an autonomous multi-agent system for transforming unstructured mineral data into actionable insights
-* Developed NLP pipelines for data extraction
-* Implemented anomaly detection and predictive analytics
-* Designed an interactive React dashboard for visualization
-
----
-
-### 🔹 AI Travel Planner (Ongoing)
-
-**Tech Stack:** Python, FastAPI, PostgreSQL, Google Maps API
-
-* Intelligent itinerary generation system
-* API integration for weather, distance, and location services
-* Backend architecture with REST APIs and PostgreSQL
-
----
-
-### 🔹 AI Recipe Generator
-
-**Tech Stack:** Python, Flask, SQLite, OpenAI APIs
-
-* AI-powered recipe generation from user ingredients
-* Prompt engineering for structured recipe outputs
-* Full-stack web application with persistent storage
-
----
 
 ## 📚 Core Computer Science
 
@@ -150,13 +118,6 @@ Currently pursuing a B.E. in Computer Science (Artificial Intelligence & Data Sc
 
 ---
 
-## 📈 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=thavaneesh07\&show_icons=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=thavaneesh07\&layout=compact)
-
----
 
 ## 🤝 Connect With Me
 
@@ -166,6 +127,5 @@ Currently pursuing a B.E. in Computer Science (Artificial Intelligence & Data Sc
 
 ---
 
-### 💡 Motto
 
 > *"Simplicity can be a Virtue."*
