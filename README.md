@@ -63,9 +63,9 @@ RNS Institute of Technology, Bangalore
 ---
 
 ## 🌐 Connect
+## 🌐 Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/thavaneesh-shetty)
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:thavaneesh2005@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thavaneesh-shetty-9140a1291) [![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:thavaneesh2005@gmail.com)
 
 ---
 
